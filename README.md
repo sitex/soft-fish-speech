@@ -195,3 +195,5 @@ For SGLang Server usage, please refer to the [SGLang-Omni README](https://github
       url={https://arxiv.org/abs/2603.08823}, 
 }
 ```
+
+Repository: https://github.com/sitex/soft-fish-speech
