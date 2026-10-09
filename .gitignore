@@ -112,3 +112,26 @@ ffprobe.exe
 # ----------
 /*.test.sh
 asr-label*
+
+# External originals: repo-history-cleanup
+*.7[zZ]
+*.[fF][lL][aA][cC]
+*.[gG][zZ]
+*.[mM]4[aA]
+*.[mM][kK][vV]
+*.[mM][oO][vV]
+*.[mM][pP]3
+*.[mM][pP]4
+*.[oO][gG][gG]
+*.[oO][pP][uU][sS]
+*.[pP][dD][fF]
+*.[rR][aA][rR]
+*.[tT][aA][rR]
+*.[wW][aA][vV]
+*.[zZ][iI][pP]
+*.pyc
+.audiocpp-repair-runs/
+.cache/
+.venv/
+.whisperx/
+__pycache__/
